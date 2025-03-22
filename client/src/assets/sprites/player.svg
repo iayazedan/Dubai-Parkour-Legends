@@ -1,0 +1,11 @@
+<svg width="40" height="50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Player character -->
+  <rect x="10" y="5" width="20" height="30" rx="4" fill="#A0522D" />
+  <circle cx="20" cy="12" r="6" fill="#FFD700" /> <!-- Head -->
+  <rect x="14" y="21" width="12" height="14" rx="2" fill="#8B4513" /> <!-- Body -->
+  <rect x="10" y="35" width="8" height="4" fill="#654321" /> <!-- Left foot -->
+  <rect x="22" y="35" width="8" height="4" fill="#654321" /> <!-- Right foot -->
+  <circle cx="17" cy="10" r="1.5" fill="#000" /> <!-- Left eye -->
+  <circle cx="23" cy="10" r="1.5" fill="#000" /> <!-- Right eye -->
+  <path d="M 18 14 L 22 14" stroke="#000" stroke-width="1" /> <!-- Neutral mouth for idle -->
+</svg>

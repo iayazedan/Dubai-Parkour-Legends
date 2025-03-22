@@ -1,0 +1,55 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="800" height="600" fill="#87CEEB"/>
+  
+  <!-- Desert/Ground -->
+  <rect y="450" width="800" height="150" fill="#D3D3D3"/>
+  
+  <!-- Roads -->
+  <rect y="470" width="800" height="30" fill="#555555"/>
+  <rect x="100" y="470" width="10" height="30" fill="#FFFFFF"/>
+  <rect x="250" y="470" width="10" height="30" fill="#FFFFFF"/>
+  <rect x="400" y="470" width="10" height="30" fill="#FFFFFF"/>
+  <rect x="550" y="470" width="10" height="30" fill="#FFFFFF"/>
+  <rect x="700" y="470" width="10" height="30" fill="#FFFFFF"/>
+  
+  <!-- Burj Khalifa -->
+  <polygon points="400,100 420,450 380,450" fill="#A9A9A9"/>
+  <rect x="390" y="420" width="20" height="30" fill="#87CEFA"/>
+  <rect x="390" y="380" width="20" height="30" fill="#87CEFA"/>
+  <rect x="390" y="340" width="20" height="30" fill="#87CEFA"/>
+  <rect x="390" y="300" width="20" height="30" fill="#87CEFA"/>
+  <rect x="390" y="260" width="20" height="30" fill="#87CEFA"/>
+  <rect x="390" y="220" width="20" height="30" fill="#87CEFA"/>
+  <rect x="390" y="180" width="20" height="30" fill="#87CEFA"/>
+  <line x1="400" y1="100" x2="400" y2="50" stroke="#A9A9A9" stroke-width="2"/>
+  
+  <!-- Modern Skyscrapers -->
+  <rect x="100" y="250" width="60" height="200" fill="#4682B4"/>
+  <rect x="105" y="250" width="50" height="200" fill="#87CEFA"/>
+  
+  <rect x="200" y="220" width="80" height="230" fill="#4682B4"/>
+  <rect x="208" y="220" width="64" height="230" fill="#87CEFA"/>
+  
+  <rect x="320" y="280" width="40" height="170" fill="#4682B4"/>
+  <rect x="325" y="280" width="30" height="170" fill="#87CEFA"/>
+  
+  <rect x="480" y="300" width="70" height="150" fill="#4682B4"/>
+  <rect x="485" y="300" width="60" height="150" fill="#87CEFA"/>
+  
+  <!-- Burj Al Arab -->
+  <path d="M650,450 C650,350 700,300 700,250 C700,300 750,350 750,450 Z" fill="#FFFFFF"/>
+  <path d="M680,450 C680,380 700,340 700,300 C700,340 720,380 720,450 Z" fill="#87CEFA"/>
+  
+  <!-- Palm Island (simplified) -->
+  <ellipse cx="150" cy="520" rx="100" ry="30" fill="#DEB887"/>
+  <rect x="150" y="510" width="5" height="50" fill="#008000"/>
+  <rect x="120" y="510" width="5" height="40" fill="#008000"/>
+  <rect x="180" y="510" width="5" height="40" fill="#008000"/>
+  
+  <!-- Clouds -->
+  <ellipse cx="100" cy="100" rx="40" ry="20" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="300" cy="150" rx="50" ry="25" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="500" cy="120" rx="45" ry="22" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="700" cy="80" rx="55" ry="28" fill="#FFFFFF" opacity="0.8"/>
+</svg>

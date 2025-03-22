@@ -1,0 +1,7 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gold coin with shine effect -->
+  <circle cx="15" cy="15" r="13" fill="#FFD700" />
+  <circle cx="15" cy="15" r="11" fill="#FFDF00" />
+  <ellipse cx="10" cy="10" rx="5" ry="5" fill="#FFFACD" opacity="0.6" /> <!-- Shine -->
+  <text x="15" y="19" text-anchor="middle" fill="#B8860B" font-size="14" font-weight="bold">D</text>
+</svg>
